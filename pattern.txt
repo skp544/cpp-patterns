@@ -58,3 +58,34 @@ Pattern 10
     2 1
     3 2 1
     4 3 2 1
+
+Pattern 11
+    AAAA
+    BBBB
+    CCCC
+    DDDD
+
+
+Pattern 12
+    ABCD
+    ABCD
+    ABCD
+    ABCD
+
+Pattern 13
+    ABCD
+    EFGH
+    IJKL
+    MNOP
+
+Pattern 14
+    ABCD
+    BCDE
+    CDEF
+    DEFG
+
+Pattern 15
+    A
+    BB
+    CCC
+    DDDD
