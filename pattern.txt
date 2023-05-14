@@ -89,3 +89,33 @@ Pattern 15
     BB
     CCC
     DDDD
+
+Pattern 16
+    A 
+    BC 
+    DEF 
+    GHIJ
+
+Pattern 17
+    A 
+    BC
+    CDE 
+    DEFG
+
+Pattern 18
+    D
+    CD 
+    BCD
+    ABCD 
+
+Pattern 19
+       *
+      **
+     ***
+    ****
+
+Pattern 20
+    ****
+    ***
+    **
+    *
