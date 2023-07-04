@@ -10,6 +10,26 @@ int main() {
     cout << "Printing Patterns: " << endl;
 
     for (int i = 1; i <= n; i++) {
+
+        for (int j = 1; j <= n - i; j++) {
+            cout << " ";
+        }
+
+        for (int k = 1; k <= i; k++) {
+            cout << "*";
+        }
+
+        for (int l = 1; l <= i - 1; l++) {
+            cout << "*";
+        }
+        // for (int p = 1; p <= i - 1; p++) {
+        //     cout << "*";
+        // }
+
+        cout << endl;
+    }
+
+    for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= i - 1; j++) {
             cout << " ";
         }
@@ -24,6 +44,9 @@ int main() {
 
         cout << endl;
     }
+
+
+
 
     return 0;
 }
