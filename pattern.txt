@@ -226,4 +226,52 @@ Pattern 34
         *
 
 Pattern 35
-    
+    *
+    **
+    ***
+    ****
+    *****
+    ****
+    ***
+    **
+    *
+
+
+Pattern 36
+    0 
+    1 0 
+    0 1 0
+    1 0 1 0
+    0 1 0 1 0
+
+Pattern 37
+    1        1
+    12      21
+    123    321
+    1234  4321
+    1234554321
+
+
+Pattern 38
+    A
+    AB 
+    ABC 
+    ABCD 
+    ABCDE
+
+
+Pattern 39
+    ABCDE
+    ABCD
+    ABC
+    AB
+    A
+
+
+Pattern 40
+        A
+       ABA
+      ABCBA
+     ABCDCBA
+    ABCDEDCBA
+
